@@ -1,6 +1,6 @@
 # Personal-Website-Template
 
-	**simple website template using HTML and CSS.no js used.**
+	**Simple site about me, i will keep it up to date.**
 	
-![Screenshot](https://raw.githubusercontent.com/MasterBrian99/Personal-Website-Template/master/Screenshot%20(16).png)
+![Screenshot](./02.png)
 	
