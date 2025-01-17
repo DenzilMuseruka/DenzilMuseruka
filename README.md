@@ -4,7 +4,7 @@ Hi there! 👋 I'm a passionate and goal-driven individual dedicated to creating
 
 ## 🎯 My Journey
 - 💻 **Tech Enthusiast**: I specialize in developing robust applications, ranging from asset management systems to a comprehensive rabbit management app. I work with frameworks like Blazor, Angular, and Ionic, and I leverage cloud services like Azure to deliver seamless experiences.
-- 🛍️ **Entrepreneur**: I'm building **Dishes**, an online shop focused on luxury perfumes. My mission is to provide distinctive, long-lasting scents that evoke cherished memories. My vision is to expand into the beauty cosmetics market and establish a global presence with a physical store.
+- 🛍️ **Entrepreneur**: I'm building **Dee-tait**, an online shop focused on luxury perfumes. My mission is to provide distinctive, long-lasting scents that evoke cherished memories. My vision is to expand into the beauty cosmetics market and establish a global presence with a physical store.
 - 🏋️ **Fitness Advocate**: I recently started creating workout routines with my Everlast Active Gym to achieve my fitness goals.
 
 ## 🌟 Core Values
